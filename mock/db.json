@@ -1,0 +1,480 @@
+{
+  "work-history": [
+    {
+      "id": 1,
+      "company": {
+        "name": "Seavus",
+        "city": "Skopje",
+        "country": "Macedonia",
+        "website": "http://seavus.com",
+        "from": "12/2006",
+        "to": "03/2009",
+        "assignment": ""
+      },
+      "roles": ["Trainee", "Junior Developer", "Full Stack Developer"],
+      "projects": [
+        {
+          "name": "Recruitment application",
+          "description": "Internal WEB application for improving internal employment process",
+          "link": ""
+        },
+        {
+          "name": "HR application",
+          "description": "Internal HRM application for improving internal employees reporting process",
+          "link": ""
+        },
+        {
+          "name": "CRM application",
+          "description": "Internal CRM application",
+          "link": ""
+        },
+        {
+          "name": "CRM application",
+          "description": "Customization and development of a CRM application based on sugarCRM",
+          "link": ""
+        },
+        {
+          "name": "Inex Gorica Hotel Website CMS",
+          "description": "Customization and development of a website based on the Joomla CMS ",
+          "link": "http://hotelinexgorica.com.mk"
+        },
+        {
+          "name": "Macedonian Museum of national history Website CMS",
+          "description": "Customization and development of a website based on the Joomla CMS ",
+          "link": "http://www.prirodonaucen.com.mk"
+        },
+        {
+          "name": "Macedonian Museum of national history Website CMS",
+          "description": "Customization and development of a website based on the Joomla CMS ",
+          "link": "http://www.prirodonaucen.com.mk"
+        },
+        {
+          "name": "Websites generic solution for multiple Municipalities in Macedonia",
+          "description": "Customization and development of a websites based on the Joomla CMS  with document management system",
+          "link": ""
+        }
+      ],
+      "languages": [
+        {
+          "code": "HTML",
+          "years": 3
+        },
+        {
+          "code": "CSS",
+          "years": 3
+        },
+        {
+          "code": "PHP",
+          "years": 2
+        },
+        {
+          "code": "MySQL",
+          "years": 2
+        },
+        {
+          "code": "JavaScript",
+          "years": 1
+        }
+      ],
+      "frameworks": [
+        {
+          "code": "CodeIgniter",
+          "years": 1
+        },
+        {
+          "code": "SugarCrm",
+          "years": 1
+        },
+        {
+          "code": "vTiger HRM",
+          "years": 1
+        },
+        {
+          "code": "Joomla",
+          "years": 1
+        },
+        {
+          "code": "jQuery",
+          "years": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "company": {
+        "name": "Cutting Edge Intelligence",
+        "city": "Skopje",
+        "country": "Macedonia",
+        "website": "https://www.it-labs.com",
+        "from": "03/2009",
+        "to": "12/2009",
+        "assignment": ""
+      },
+      "roles": ["Full Stack Developer"],
+      "projects": [
+        {
+          "name": "Online media training website for Attorney's",
+          "description": "Customization and development of a website based on a custom made PHP framework. Implementation of a payment gateway and media server for online learning materials",
+          "link": "www.celesq.com"
+        },
+        {
+          "name": "Adult Affiliate website",
+          "description": "Customization and development of a website widgets and their integration as a third party ads",
+          "link": ""
+        }
+      ],
+      "languages": [
+        {
+          "code": "HTML",
+          "years": 0.8
+        },
+        {
+          "code": "CSS",
+          "years": 0.8
+        },
+        {
+          "code": "PHP",
+          "years": 0.8
+        },
+        {
+          "code": "MySQL",
+          "years": 0.8
+        },
+        {
+          "code": "JavaScript",
+          "years": 0.8
+        }
+      ],
+      "frameworks": [
+        {
+          "code": "Custom PHP framework",
+          "years": 0.8
+        },
+        {
+          "code": "jQuery",
+          "years": 0.8
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "company": {
+        "name": "ITgma",
+        "city": "Skopje",
+        "country": "Macedonia",
+        "website": "https://www.itgma.com",
+        "from": "12/2009",
+        "to": "05/2011",
+        "assignment": ""
+      },
+      "roles": ["Full Stack Developer", "Frontend Developer"],
+      "projects": [
+        {
+          "name": "CRM for telecommunications operator Macedonia",
+          "description": "Customization and development of a SugarCRM modules",
+          "link": "#"
+        },
+        {
+          "name": "CRM for telecommunications operator Austria",
+          "description": "Customization and development of a SugarCRM modules and managing to work on Oracle DB",
+          "link": "#"
+        },
+        {
+          "name": "Best thing on earth",
+          "description": "Development of a single page application with custom JavaScript CMS framework",
+          "link": "http://btoe.com"
+        }
+      ],
+      "languages": [
+        {
+          "code": "HTML",
+          "years": 1.5
+        },
+        {
+          "code": "CSS",
+          "years": 1.5
+        },
+        {
+          "code": "PHP",
+          "years": 1
+        },
+        {
+          "code": "MySQL",
+          "years": 1
+        },
+        {
+          "code": "Oracle",
+          "years": 1
+        },
+        {
+          "code": "JavaScript",
+          "years": 1.5
+        }
+      ],
+      "frameworks": [
+        {
+          "code": "SugarCrm",
+          "years": 1
+        },
+        {
+          "code": "Custom Javascript Framework",
+          "years": 1
+        },
+        {
+          "code": "jQuery",
+          "years": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "company": {
+        "name": "MI-C3",
+        "city": "Skopje",
+        "country": "Macedonia",
+        "website": "https://www.itgma.com",
+        "from": "05/2011",
+        "to": "06/2013",
+        "assignment": ""
+      },
+      "roles": ["Full Stack Developer", "Frontend Developer", "Consultant"],
+      "projects": [
+        {
+          "name": "Control Room Software",
+          "description": "InterSystems CACHE database and ZEN language (Custom Language Based on OOP technology ) GIS (Situational Awareness Module ‐ OOP Javascript custom development based on OpenLayers Framework)",
+          "link": "mi-c3.com"
+        }
+      ],
+      "languages": [
+        {
+          "code": "HTML",
+          "years": 2
+        },
+        {
+          "code": "CSS",
+          "years": 2
+        },
+        {
+          "code": "PHP",
+          "years": 2
+        },
+        {
+          "code": "InterSystems CACHE",
+          "years": 2
+        },
+        {
+          "code": "JavaScript",
+          "years": 2
+        }
+      ],
+      "frameworks": [
+        {
+          "code": "OpenLayers",
+          "years": 1
+        },
+        {
+          "code": "jQuery",
+          "years": 1
+        },
+        {
+          "code": "Bootstrap",
+          "years": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "company": {
+        "name": "NTH Group Switzerland",
+        "city": "Skopje",
+        "country": "Macedonia",
+        "website": "http://nth.com/",
+        "from": "06/2013",
+        "to": "01/2014",
+        "assignment": ""
+      },
+      "roles": ["Full Stack Developer", "Frontend Developer"],
+      "projects": [
+        {
+          "name": "Kyntal Mobile Website",
+          "description": "Development of responsive website",
+          "link": "#"
+        },
+        {
+          "name": "SwissDigital Website",
+          "description": "Development of responsive website",
+          "link": "#"
+        },
+        {
+          "name": "Samuray Digital Website",
+          "description": "Development of responsive website",
+          "link": "#"
+        }
+      ],
+      "languages": [
+        {
+          "code": "HTML",
+          "years": 0.7
+        },
+        {
+          "code": "CSS",
+          "years": 0.7
+        },
+        {
+          "code": "PHP",
+          "years": 0.7
+        },
+        {
+          "code": "MySQL",
+          "years": 0.7
+        },
+        {
+          "code": "JavaScript",
+          "years": 0.7
+        }
+      ],
+      "frameworks": [
+        {
+          "code": "Wordpress",
+          "years": 0.7
+        },
+        {
+          "code": "Laravel",
+          "years": 1
+        },
+        {
+          "code": "jQuery",
+          "years": 1
+        },
+        {
+          "code": "Bootstrap",
+          "years": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "company": {
+        "name": "Elerna B.V",
+        "city": "Utrecht",
+        "country": "The Netherlands",
+        "website": "http://elerna.com/",
+        "from": "01/2014",
+        "to": "02/2015",
+        "assignment": ""
+      },
+      "roles": ["Full Stack Developer", "Frontend Developer"],
+      "projects": [
+        {
+          "name": "eLearning Web Application",
+          "description": "School Web Application - eLearning development solution that include industry-leading authoring tools, real time collaboration grading and effective management ",
+          "link": "#"
+        }
+      ],
+      "languages": [
+        {
+          "code": "HTML",
+          "years": 1
+        },
+        {
+          "code": "SASS/LESS",
+          "years": 1
+        },
+        {
+          "code": "PHP",
+          "years": 1
+        },
+        {
+          "code": "Mongo",
+          "years": 1
+        },
+        {
+          "code": "JavaScript",
+          "years": 1
+        }
+      ],
+      "frameworks": [
+        {
+          "code": "Laravel",
+          "years": 1
+        },
+        {
+          "code": "AngularJs",
+          "years": 1
+        },
+        {
+          "code": "jQuery",
+          "years": 1
+        },
+        {
+          "code": "Bootstrap",
+          "years": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "company": {
+        "name": "WCC Smart & Search B.V",
+        "city": "Utrecht",
+        "country": "The Netherlands",
+        "website": "http://wcc-group.com/",
+        "from": "09/2015",
+        "to": "current",
+        "assignment": ""
+      },
+      "roles": ["Frontend Developer"],
+      "projects": [
+        {
+          "name": "Matching platform",
+          "description": "Its advanced matching technology and built-in industry expertise",
+          "link": "#"
+        }
+      ],
+      "languages": [
+        {
+          "code": "HTML",
+          "years": 3.6
+        },
+        {
+          "code": "SASS/LESS",
+          "years": 3.6
+        },
+        {
+          "code": "CSS",
+          "years": 3.6
+        },
+        {
+          "code": "JavaScript",
+          "years": 3.6
+        },
+        {
+          "code": "TypeScript",
+          "years": 3.6
+        }
+      ],
+      "frameworks": [
+        {
+          "code": "AngularJs",
+          "years": 2.6
+        },
+        {
+          "code": "Angular",
+          "years": 1
+        },
+        {
+          "code": "jQuery",
+          "years": 2.6
+        },
+        {
+          "code": "Bootstrap",
+          "years": 3.6
+        },
+        {
+          "code": "RXJS",
+          "years": 1
+        }
+      ]
+    }
+  ]
+}
